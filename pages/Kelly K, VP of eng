@@ -1,0 +1,63 @@
+Kelly K, VP of eng
+Technical open house
+NDA signed? lol
+
+what do they do, value of adding to customers
+- IOT data from sensors, cameras, software, etc. Pulls data, turns it into actionable insights into how their business is performing. Any company that operates under physical operations.
+- Meaningful reductions in accidents from safety, millions of gallons of fuel saved, able to see the direct impact of safty and efficiency of processes that power our economy.
+
+Edwin Zhang
+- 3.5 years
+Fleet management, connected operations. Take all pieces of hardware one might see on a map. Hardware Samsara built that populates this information:
+- texas food and beverage company dashboard data. If you look into a particular vehicle
+
+estimate carbon emissions, see overall mpg
+can take diagnostics data, check which vehicles might have engine faults, you can filter reports
+driver exoneration, take video, like dash camera
+cities and dashboards are using data
+
+Site visibility
+- Ethan Goldberg, mobile side of things
+multiple apps that share the same infrastructure, fleet app:
+customers wanted visibility into their fleets when they were not at their keyboard. Any reason that gives one quick access.
+There are some things you can only do on mobile. Installation: customers were hitting pitfalls when installing devices. At some point all customers have to install vehicle gateways or cameras. Getting lots of support tickets on it, so they designed a mobile flow as simple and straightforward to do that.
+
+Install devices: any in progress? resume them. Or, let's install a new device.
+install via barcode. Another pitfall: VG (vehicle gateways) were not always clear about what cables were needed. you could scan Vehicle ID number and it'd tell you what you need to keep going (shows you the cable type!)
+
+Q: since this was a flow that came straight from customer feedback, how dod you come up with this flow? Is this purely from customer feedback or how did you prioritize these features?
+
+Connected Sites products team
+Site visibility is newest products
+KATIE SIEGEL
+Showcasing earliest customers:
+- 7 different sites. To deploy site visibility, ship customers site gateway. Customer sites that streams video from cameras on the network. When new cameras are added, they can be associated with gateway through camera flow. Add a camera to the gateway, scan for cameras. Compatible with some third party cameras or ones that Samsara supplies. On the installation wizard, we have successfully scanned for a few cameras. Once we add cameras, we can view device diagnostics. 
+
+
+Products detect people in motion. Detections are done on the edge and service them through the product. Instances where epople enter the door, can search on the timeline. how do we know we're building the rihgtts things for our customers?
+
+Ethan: a few ways, first is we ask them. How do you get custonemr feedback? Great team od designers and PMs and talk abotu what features they're missing, what they wanbt. Pull written feature requests from them as well.
+
+Do you find it's easy to get written feature requests, do you have to fish often for waht customers have to say?
+
+Also very data driven. We have excellent tooling for engineers and pulling metrics. Aggregating metrics and using them to inform decisions.
+
+Whenever one is writing an eng spec, you're expected to include a section of metrics to validate the project and assumptions behind it. All that is used to inform decisions across the boarding, bug fixes on a day to day basis or bigger things.
+
+How do we build for the long-term?
+Evan Meagher, connected equiptment team.
+Natural tension between building for the long-term and being obsessed with our customers. Want to follow the needs of cusomters and build towards what they want, but alsdo want ot think about where youre going and how to reach that next level scale. Want to reach and succeed at that next level and (not have too many cooks in the jitchen????)
+
+Company strategy at high level is communicated, helps rally folks in a consistent direction across the company. Thinking long-term is about knowing what bets to make to get one to that next level.
+
+
+What are the real world things to consider when building for the long term?
+
+
+Rhett aultman
+- gateway team
+mobile handsets, tablets, IT equiptment. Always working on a product out there in the world. Trucks are on the road everyday, in dangerous driving conditions, etc. Someone's life you're trying to protect. Vehicle security, including ones that drive in dangerous areas. Protecting the driver and truck important, locating and recovering stolen vehicles. At the end of the day, can say you've done something in the real world. VEHICLE GATEWAY is always getting diagnostic data about the internals of the vehicle it's attached to. Helps monitor issues and take preventative measures. Fuel efficiency lagging, helps figure out why. Helps you debug your truck.
+
+
+enterprise mobillity team
+- fleets, connected sites, there will be one person in the office helping control or administer a series of people or individuals on a site.
